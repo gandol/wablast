@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-bulk",
+  "version": "1.0.0",
+  "description": "Whatsapp bulk message with puppeteer (nodejs)",
+  "main": "index.js",
+  "scripts": {
+    "send": "node index.js",
+    "reset": "node reset.js"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "puppeteer": "^1.20.0"
+  }
+}
