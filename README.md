@@ -1,5 +1,5 @@
 # wablast
-send bulk whatsapp message using puppeteer recode from ttps://github.com/do4Mother/whatsapp-bulk
+send bulk whatsapp message using puppeteer recode from https://github.com/do4Mother/whatsapp-bulk
 ## Installation
 
 ```bash
