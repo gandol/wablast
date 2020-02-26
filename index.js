@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer');
 const config = require('./config')
 const fs = require('fs')
-const db = require('./testing');
+const db = require('./database');
 db.connect(function (err) {
 	if (err) throw err
 })

@@ -1,4 +1,4 @@
-const db =require('./testing');
+const db =require('./database');
 db.connect();
 let sql = "update nomor_tujuan set send=0";
 db.query(sql,function(err,res){
